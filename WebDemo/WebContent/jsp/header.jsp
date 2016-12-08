@@ -5,7 +5,7 @@
 <script type="text/javascript" src="/WebDemo/js/onclick.js"></script>
 </head>
 <body>
-	<div id="indexheader" class="">
+	<div class="indexheader" class="">
 		<span class="" id="signup">sign up</span>
 	</div>
 </body>

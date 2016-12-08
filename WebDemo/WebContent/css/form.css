@@ -1,6 +1,6 @@
 @CHARSET "UTF-8";
 
-#indexheader{
+.indexheader{
 	position: absolute;
 	magin-top: 0;
 	width: 100%;
@@ -16,4 +16,5 @@ body{
 }
 span{
 	color: blue;
+	
 }
